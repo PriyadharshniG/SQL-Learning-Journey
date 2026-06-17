@@ -53,8 +53,6 @@ SQL-Learning-Journey
 
 ├── 05_DDL
 
-├── Exercises
-
 └── README.md
 
 ## 🎯 Learning Goals
