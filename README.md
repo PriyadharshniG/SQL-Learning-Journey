@@ -72,7 +72,11 @@ SQL-Learning-Journey
 - [x] GROUP BY Clause
 - [x] HAVING Clause
 - [x] TOP Clause
-- [ ] JOINs
+- [x] DDL
+- [x] DML
+- [x] Data Filtering
+- [x] JOINs
+- [ ] SETS
 - [ ] Subqueries
 - [ ] Views
 - [ ] Stored Procedures
