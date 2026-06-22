@@ -9,51 +9,67 @@ This repository documents my hands-on SQL learning process, including concepts, 
 ## 📚 Topics Covered
 
 ### 01_Basics
-- SELECT Statement
-- Retrieving Multiple Columns
-- Using Keywords
-- Static Values
+
+* SELECT Statement
+* Retrieving Multiple Columns
+* Using Keywords
+* Static Values
 
 ### 02_Filtering
-- WHERE Clause
-- DISTINCT Clause
+
+* WHERE Clause
+* DISTINCT Clause
 
 ### 03_Grouping_Aggregation
-- GROUP BY Clause
-- HAVING Clause
-- Aggregate Functions (COUNT, SUM, AVG, MIN, MAX)
-- TOP Clause
+
+* GROUP BY Clause
+* HAVING Clause
+* Aggregate Functions (COUNT, SUM, AVG, MIN, MAX)
+* TOP Clause
 
 ### 04_Sorting
-- ORDER BY Clause
-- Ascending & Descending Sorting
+
+* ORDER BY Clause
+* Ascending & Descending Sorting
 
 ### 05_DDL (Data Definition Language)
-- CREATE
-- ALTER
-- DROP
-- TRUNCATE
+
+* CREATE
+* ALTER
+* DROP
+* TRUNCATE
 
 ### 06_DML (Data Manipulation Language)
-- INSERT
-- UPDATE
-- DELETE
+
+* INSERT
+* UPDATE
+* DELETE
 
 ### 07_Data_Filtering
-- AND Operator
-- OR Operator
-- NOT Operator
-- BETWEEN
-- IN
-- LIKE
-- Wildcards
+
+* AND Operator
+* OR Operator
+* NOT Operator
+* BETWEEN
+* IN
+* LIKE
+* Wildcards
 
 ### 08_SQL_JOINS
-- INNER JOIN
-- LEFT JOIN
-- RIGHT JOIN
-- FULL JOIN
-- CROSS JOIN
+
+* INNER JOIN
+* LEFT JOIN
+* RIGHT JOIN
+* FULL JOIN
+* CROSS JOIN
+
+### 09_SQL_SETS
+
+* UNION
+* UNION ALL
+* INTERSECT
+* EXCEPT
+
 
 ---
 
